@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "id": "STU001",
+      "name": "John Smith",
+      "course": "Computer Science",
+      "year": 3,
+      "email": "john.smith@university.edu"
+    },
+    {
+      "id": "STU002",
+      "name": "Emily Johnson",
+      "course": "Information Technology",
+      "year": 2,
+      "email": "emily.johnson@university.edu"
+    },
+    {
+      "id": "STU003",
+      "name": "Michael Brown",
+      "course": "Software Engineering",
+      "year": 4,
+      "email": "michael.brown@university.edu"
+    },
+    {
+      "id": "STU004",
+      "name": "Sarah Davis",
+      "course": "Data Science",
+      "year": 1,
+      "email": "sarah.davis@university.edu"
+    },
+    {
+      "id": "STU005",
+      "name": "David Wilson",
+      "course": "Computer Science",
+      "year": 2,
+      "email": "david.wilson@university.edu"
+    }
+  ]
+}

@@ -1,3 +1,28 @@
+# Student Info Application
+
+A simple React app demonstrating **component usage**, **props and state**, **client-side routing**, and **API data handling** with the Fetch API.
+
+## Running the app (with API)
+
+1. **Install dependencies** (includes `json-server` for the API):
+   ```bash
+   npm install
+   ```
+
+2. **Start the API server** (in a separate terminal). This keeps student data when you change pages or refresh:
+   ```bash
+   npm run server
+   ```
+   The API runs at [http://localhost:3001](http://localhost:3001).
+
+3. **Start the React app**:
+   ```bash
+   npm start
+   ```
+   Open [http://localhost:3000](http://localhost:3000). Students are loaded and saved via the API; data persists across navigation and refresh.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
